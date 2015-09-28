@@ -1,0 +1,16 @@
+Tridelt,sae,pi kapps,lambda chi
+ZTA,lambda chi,delts,snu
+KKG,agr,sae,kappa sig
+pi phi,fiji,kappa sig,sae
+dg,phi psi,d chi,fiji
+dz,zbt,sig chi,pi kapps
+theta,pi kapps,agr,delts
+chi o,kappa sig,phi psi,sig chi
+a chi o,delts,lambda chi,agr
+phi mu,pike,zbt,d chi
+sigma kappa,ato,du,theta chi
+azd,d chi,theta chi,zbt
+agd,akl,pike
+aopi,Farm House,pike,du
+g phi b,du,akl
+a phi,sig chi,fiji,phi psi
