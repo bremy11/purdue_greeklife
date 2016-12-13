@@ -172,7 +172,6 @@ public class BreadthFirstDirectedPaths {
             else {
                 StdOut.printf("%d to %d (-):  not connected\n", s, v);
             }
-
         }
     }
 

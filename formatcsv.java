@@ -26,7 +26,6 @@ public class formatcsv{
                 if (tokens.length >1&& !isin(tokens[0], names)) { names[icount++] = tokens[0];}
                 for(int i = 1; i < tokens.length; i++){
                     if (!isin(tokens[i], names)) { names[icount++] = tokens[i];}
-                    
                 }
             }
         } catch (Exception e) {
